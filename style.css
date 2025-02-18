@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(54, 54, 54);
+}
+/* Home page */
+.unordered,
+.heading,
+.link,
+p,
+li{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+.heading{
+    color: rgb(250, 220, 88);
+}
+a.link{
+    color: white;
+    text-decoration: none;
+}
+
+/* Garlic Buttered Shrimp */
+
+.heading.shrimp{
+    color: rgb(255, 190, 70);
+}
+.subhead{
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.shrimp p{
+    color: orange;
+}
+ul#recipe li{
+    color: aquamarine;
+}
+ol li{
+    color: rgb(88, 174, 255);
+}
+
+/* Fried Chicken */
+
+.heading.fchicken{
+    color: rgb(255, 168, 109);
+}
+.fchicken p{
+    color: rgb(167, 100, 0);
+}
+
+/* Fried rice */
+
+.heading.frice{
+    color: bisque;
+}
+.frice p{
+    color: coral;
+}
